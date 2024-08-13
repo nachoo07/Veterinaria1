@@ -1,0 +1,5 @@
+export const URL_PRODUCTOS = 'http://localhost:3000/productos'
+export const URL_PRODUCTOS_AGREGAR = 'http://localhost:3000/productos/create'
+export const URL_PRODUCTOS_ELIMINAR = 'http://localhost:3000/productos/delete/'
+export const URL_PRODUCTOS_EDITAR = 'http://localhost:3000/productos/update/'
+export const URL_PRODUCTOS_FILTRO = 'http://localhost:3000/productos/seeker/'

@@ -1,0 +1,15 @@
+.letras{
+    color: rgb(255, 255, 255) !important;
+    font-size: 22px !important;
+    font-family:'Times New Roman', Times, serif !important;
+    text-decoration: underline !important;
+    text-decoration-color: rgb(255, 255, 255) !important;
+}
+.letras:hover{
+    color: rgb(255, 255, 255);
+}
+
+.navegador{
+    
+    background-color: #1a8362;
+}

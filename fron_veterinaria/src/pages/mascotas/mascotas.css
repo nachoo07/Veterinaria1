@@ -1,0 +1,15 @@
+.boton-agregar-mascotas{
+    margin: 20px 0px 20px 0px;
+    margin-left: 1000px;
+    height: 45px;
+    width: 250px;
+    font-size: 20px;
+    background-color: #1d7690;
+    border: 1px solid #1d7690;
+    color: white;
+}
+
+.boton-agregar-mascotas:hover{
+    background-color: #1d7690;
+    border: 1px solid #1d7690;
+}

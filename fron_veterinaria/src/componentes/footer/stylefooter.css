@@ -1,0 +1,44 @@
+.footer {
+    background-color: #1a8362;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+  }
+
+  .logo-footer{
+    width: 100px; /* Ajusta el tamaño según tus necesidades */
+  }
+
+  .lista-vinetas{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  .column {
+    flex: 1;
+    margin-right: 20px;
+  }
+
+  .column-seccion{
+    margin: 0px 300px 0px 50px;
+  }
+  .column-logo{
+    margin: 0px 150px 0px 130px;
+  }
+  
+  .column:last-child {
+    margin-right: 0;
+  }
+  
+  .column h3 {
+    font-size: 1.2rem;
+  }
+
+  .column p {
+    font-size: 0.9rem;
+  }
+  
+  

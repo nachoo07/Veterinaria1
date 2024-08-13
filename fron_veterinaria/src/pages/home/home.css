@@ -1,0 +1,28 @@
+.card_inicio{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.boton-inicio{
+    text-align: center;
+    
+}
+
+.boton-color{
+    color: #ffffff !important;
+    background-color: #0978b3 !important;
+    width: 230px;
+    font-size: 25px !important;
+}
+
+.titulo-inicio{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+    background-color:#e1d2a1;
+}
+
+
+
