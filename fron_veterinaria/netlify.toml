@@ -1,0 +1,3 @@
+[build]
+  publish = "dist"
+  command = "npm run build"  # O "yarn build" dependiendo de tu gestor de paquetes
